@@ -15,6 +15,7 @@
 INT32U exKeyValueFlag = 0;		//当前轮按键标志
 INT8U  Timercount = 0;			//定时器计数
 BOOL   TimerFlag_1ms = 0;		//定时器1MS标志
+unsigned char pepe_test;
 //INT8U TEST[80]=0;
 //INT8U idata TEST2[120]=0;
 unsigned int jj;
